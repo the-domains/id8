@@ -1,0 +1,14 @@
+layout_spectrum: 0.98865
+color:
+  saturation: 0.2550777
+  brandStrength: 0.9738337
+  lightness: 0.09020309
+  rhythmicContrast: 0.5621266
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.5991637
+name: ID8
